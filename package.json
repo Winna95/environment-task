@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Winna95/environment-task/issues"
   },
-  "homepage": "https://github.com/Winna95/environment-task#readme"
+  "homepage": "https://github.com/Winna95/environment-task#readme",
+  "devDependencies": {
+    "dotenv": "^16.3.1"
+  }
 }
